@@ -1,7 +1,7 @@
 
 let imageElement = document.getElementById('image');
 let nameElement = document.getElementById('name');
-let images = [ 'vegetables.jpg', 'rice.jpg', 'bottle-of-water.jpg'];
+let images = [ 'pics/vegetables.jpg', 'pics/rice.jpg', 'pics/bottle-of-water.jpg.jpg'];
 let names = [ 'vegetables', 'rice', 'bottle-of-water'];
 let currentIndex=0;
     
